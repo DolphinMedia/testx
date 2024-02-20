@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="ℹ️| Info" tvg-logo="https://cdn-icons-png.flaticon.com/512/189/189664.png", Intro | Okita Replay Intro
+https://hqth.me/OkitaReplayIntro
+
+#EXTINF:-1 group-title="ℹ️| Info" tvg-logo="https://cdn-icons-png.flaticon.com/512/189/189664.png", Từ nơi đồng xanh thơm hương lúa
+https://hqth.me/Tunoidongxanh
+
+#EXTINF:-1 group-title="ℹ️| Info" tvg-logo="https://cdn.hqth.me/qrvcb.png", Donate/Ủng hộ dự án
+http://plus.vthanhtivi.pw/donate/donate.m3u8
+
+#EXTINF:-1 group-title="The Idol S01" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU3YmMwYjItYzQ0My00YjYzLThlZjItNTdmNjY5ZTZjNWY5XkEyXkFqcGdeQXVyMTY1MTU0NzEz._V1_FMjpg_UX1000_.jpg", The Idol S01E01
+https://hqth.me/theidols01e01
+
+#EXTINF:-1 group-title="NBA Replay" tvg-logo="https://assets-global.website-files.com/634d489f9eecddf41312c147/64849e98ba675895415141f6_AS24_Indy_Primary.png", All-star 73rd | VThanh Sports 1
+https://hqth.me/NBA-All-star-23-24
+
+#EXTINF:-1 group-title="NBA Replay" tvg-logo="https://assets-global.website-files.com/634d489f9eecddf41312c147/64849e98ba675895415141f6_AS24_Indy_Primary.png", All-star match 73rd Đông vs Tây| FPT Play
+https://hqth.me/FPTPlay73rd
+
+#EXTINF:-1 group-title="NBA Replay" tvg-logo="https://cdn-gleague.nba.com/sites/2/2024/01/Panini_RisingStars_2000x1333.jpg", Panini NBA Star 2024 | FPT Play
+https://hqth.me/PaniniNBAStar2024
+
+#EXTINF:-1 group-title="Ngoại Hạng Re-play" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/863/623/original/england-premier-league-logo-on-transparent-background-free-vector.jpg", Man City v Chelsea (Game-week 25) | EPL 23-24
+https://hqth.me/OkitaReplayIntro
+
+#EXTINF:-1 group-title="Ngoại Hạng Re-cap" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/863/623/original/england-premier-league-logo-on-transparent-background-free-vector.jpg",Burnley vs Arsenal (Game-week 25) | EPL 23-24
+https://hqth.me/NgoaiHangRe-capBurnvArs25
+
+#EXTINF:-1 group-title="Live stream Youtube" tvg-logo="https://static.topcv.vn/company_logos/Dl5O0Ix0601ngiet5WaGRNqr4JxjasJM_1699354806____96637546d5194dfd32d1f3127a06da30.png", FPT Bóng Đá Việt
+http://code.vthanhtivi.pw/ytlive/get2.php?id=FPTBongDaViet
+
+#EXTINF:-1 group-title="Live stream Youtube" tvg-logo="https://static.topcv.vn/company_logos/Dl5O0Ix0601ngiet5WaGRNqr4JxjasJM_1699354806____96637546d5194dfd32d1f3127a06da30.png", FPT Bóng Đá
+http://code.vthanhtivi.pw/ytlive/get2.php?id=FPTBongDaOfficial
+
+#EXTINF:-1 group-title="Gala WeChoice Awards 2023" tvg-logo="https://i.ytimg.com/vi/LNPZglky0iA/maxresdefault.jpg", DÁM RỰC RỠ | GREY D, HIEUTHUHAI, Wren Evans, Obito & 2pillz 🔥 Live at Gala WeChoice Awards 2023
+https://hqth.me/DamRucRoLIVE
+
+#EXTINF:-1 group-title="Gala WeChoice Awards 2023" tvg-logo="https://i.ytimg.com/vi/i_ec-92cdJI/maxresdefault.jpg", LÃNG DU | MCK x Wren Evans 🔥 Live at Gala WeChoice Awards 2023
+https://hqth.me/LangDu
